@@ -1,5 +1,0 @@
-Nim,Nama,Universitas,Riwayat Perjalanan
-1141530597;Ahmad Fauzi;UNSYIAH;Jakarta
-1901133939;Zaidan Agussani;UNSYIAH;medan
-1908107010;Sulthan Mahmud;Unimal;wuhan
-2010100102;Siti Nurlaila;Unsam;amerika
